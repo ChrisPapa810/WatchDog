@@ -1,4 +1,4 @@
-  # WatchDog project
+# WatchDog project
 
 _________________________________
 ^^^Info about WatchDog project^^^
